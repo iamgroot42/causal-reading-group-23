@@ -1,6 +1,9 @@
 # Schedule
 
-| Index | Date | Topic |
+TBD
+
+
+<!-- | Index | Date | Topic |
 |:----|:-------------|:-----|
 | 1 | Jan. 18 | Introduction | 
 | 2 | Jan. 25 | Word Embeddings | 
@@ -15,4 +18,4 @@
 | 11 | Apr. 5 | Text Generation |
 | 12 | Apr. 12 | Explainable Models |
 | 13 | Apr. 19 | GANs and Adversarial Learning |
-| 14 | Apr. 26 | Final Presentation |
+| 14 | Apr. 26 | Final Presentation | -->

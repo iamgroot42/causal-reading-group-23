@@ -1,6 +1,8 @@
 # Reading List
 
-## 1. Word Embeddings
+TBD
+
+<!-- ## 1. Word Embeddings
 
 - Yin and Shen [On the Dimensionality of Word Embedding](http://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding). NeurIPS 2018
 - Athiwaratkun et al. [Probabilistic FastText for Multi-Sense Word Embeddings](https://aclanthology.coli.uni-saarland.de/papers/P18-1001/p18-1001). ACL 2018
@@ -77,4 +79,4 @@
 
 - Subramanian et al. [Towards Text Generation with Adversarially Learned Neural Outlines](http://papers.nips.cc/paper/7983-towards-text-generation-with-adversarially-learned-neural-outlines). NeurIPS 2018
 - Glockner et al. [Breaking NLI Systems with Sentences that Require Simple Lexical Inferences](https://aclanthology.coli.uni-saarland.de/papers/P18-2103/p18-2103). ACL 2018
-- Alzantot et al. [Generating Natural Language Adversarial Examples](https://aclanthology.coli.uni-saarland.de/papers/D18-1316/d18-1316). EMNLP 2018
+- Alzantot et al. [Generating Natural Language Adversarial Examples](https://aclanthology.coli.uni-saarland.de/papers/D18-1316/d18-1316). EMNLP 2018 -->
