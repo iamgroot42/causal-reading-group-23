@@ -5,7 +5,7 @@ header-includes:
 
 # Causal Learning Reading Group (Summer 2023)
 
-- Leads: [Anshuman Suri](anshumansuri.me) and [Hannah Chen](https://hannahxchen.github.io/)
+- Leaders: [Anshuman Suri](anshumansuri.me) and [Hannah Chen](https://hannahxchen.github.io/)
 - Location: TBD
 - Time: TBD
 - TA: N/A
