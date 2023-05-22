@@ -5,6 +5,8 @@ header-includes:
 
 # Causal Learning Reading Group (Summer 2023)
 
+<img style="float: right;" src="files/logo.png"  width="25%" height="25%" alt="Generated using Crayon.AI with prompt 'causal learning'">
+
 - Leaders: [Anshuman Suri](anshumansuri.me) and [Hannah Chen](https://hannahxchen.github.io/)
 - Location: TBD
 - Time: TBD

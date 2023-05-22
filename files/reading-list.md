@@ -1,6 +1,13 @@
 # Reading List
 
-TBD
+## Related Courses
+
+- [Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html) by Prof. Elena Zheleva
+- [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) by Brady Neal
+
+## Books
+
+- [The Book of Why](https://en.wikipedia.org/wiki/The_Book_of_Why) by Judea Pearl and Dana Mackenzie
 
 <!-- ## 1. Word Embeddings
 
