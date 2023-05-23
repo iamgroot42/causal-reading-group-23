@@ -7,7 +7,7 @@
 
 ## Books
 
-- [Causal Inference in Statistics: A Primer](https://www.amazon.com/Causal-Inference-Statistics-Judea-Pearl/dp/1119186846) by Judea Pearl, Madelyn Glymour, Nicholas Jewell.
+- [Causal Inference in Statistics: A Primer](https://ebookcentral.proquest.com/lib/uva/detail.action?docID=7104473) by Judea Pearl, Madelyn Glymour, Nicholas Jewell.
 - [The Book of Why](https://en.wikipedia.org/wiki/The_Book_of_Why) by Judea Pearl and Dana Mackenzie.
 - [Causal Inference: What If (the book)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) by Miguel Hernan.
 
