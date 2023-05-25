@@ -3,10 +3,10 @@
 TBD
 
 
-<!-- | Index | Date | Topic |
+| Index | Date | Topic |
 |:----|:-------------|:-----|
-| 1 | Jan. 18 | Introduction | 
-| 2 | Jan. 25 | Word Embeddings | 
+| 1 | June 7 | Introduction |
+<!--| 2 | Jan. 25 | Word Embeddings | 
 | 3 | Feb. 1 | Text Representation |
 | 4 | Feb. 8 | Proposal Presentation |
 | 5 | Feb. 15 | Question Answering |
