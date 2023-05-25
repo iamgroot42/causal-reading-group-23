@@ -9,8 +9,7 @@ header-includes:
 
 - Leaders: [Anshuman Suri](anshumansuri.me) and [Hannah Chen](https://hannahxchen.github.io/)
 - Location: TBD
-- Time: TBD
-- TA: N/A
+- Time: Wednesdays, 3:15-4 PM (EST)
 - Discussion forum: [Slack](https://join.slack.com/t/slack-xxr1309/shared_invite/zt-1vouao6xg-bh0NsLQqglztr40Y_5ehiw)
 
 **Highlights**
