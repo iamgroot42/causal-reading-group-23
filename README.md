@@ -8,7 +8,7 @@ header-includes:
 <img style="float: right;" src="files/logo.png"  width="25%" height="25%" alt="Generated using Crayon.AI with prompt 'causal learning'">
 
 - Leaders: [Anshuman Suri](anshumansuri.me) and [Hannah Chen](https://hannahxchen.github.io/)
-- Location: TBD
+- Location: Rice 032
 - Time: Wednesdays, 3:15-4 PM (EST)
 - Discussion forum: [Slack](https://join.slack.com/t/slack-xxr1309/shared_invite/zt-1vouao6xg-bh0NsLQqglztr40Y_5ehiw)
 
