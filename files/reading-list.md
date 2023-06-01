@@ -4,6 +4,7 @@
 
 - [Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html) by Prof. Elena Zheleva.
 - [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) by Brady Neal.
+- [A First Course in Causal Inference](https://arxiv.org/pdf/2305.18793.pdf) by Peng Ding.
 
 ## Books
 
