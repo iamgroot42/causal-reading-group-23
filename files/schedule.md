@@ -3,7 +3,7 @@
 | Index | Date | Topic | Slides | Recording |
 |:----|:-------------|:-------------|:---------|:---------|
 | 1 | June 7 | Introduction to Structural Causal Models | [Slides](slides/causal-reading-group-23_week1.pdf) | - |
-| 2 | June 14 | Potential Outcomes | - | [Recording](videos/week2_recording.mp4) |
+| 2 | June 14 | Potential Outcomes | [Slides](slides/causal-reading-group-23_week2.pdf) | [Recording](videos/week2_recording.mp4) |
 | 3 | June 21 | TBD | | |
 | 4 | June 28 | TBD | | |
 | 5 | July 5 | TBD | | |
