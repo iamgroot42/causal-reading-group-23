@@ -12,6 +12,9 @@
 - [The Book of Why](https://en.wikipedia.org/wiki/The_Book_of_Why) by Judea Pearl and Dana Mackenzie.
 - [Causal Inference: What If (the book)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) by Miguel Hernan.
 
+## Others
+
+- [Blog explaining the rules of do-Calculus](https://stephenmalina.com/post/2020-03-09-front-door-do-calc-derivation/) by Stephen Malina.
 <!-- ## 1. Word Embeddings
 
 - Yin and Shen [On the Dimensionality of Word Embedding](http://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding). NeurIPS 2018
