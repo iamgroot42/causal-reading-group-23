@@ -14,7 +14,7 @@
 
 ## Others
 
-- [Blog explaining the rules of do-Calculus]([https://stephenmalina.com/post/2020-03-09-front-door-do-calc-derivation/](https://www.andrewheiss.com/blog/2021/09/07/do-calculus-backdoors/)) by Andrew Heiss.
+- [Blog explaining the rules of do-Calculus](https://www.andrewheiss.com/blog/2021/09/07/do-calculus-backdoors/) by Andrew Heiss.
 <!-- ## 1. Word Embeddings
 
 - Yin and Shen [On the Dimensionality of Word Embedding](http://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding). NeurIPS 2018
