@@ -14,7 +14,7 @@ header-includes:
 
 **Highlights**
 
-- [Course schedule](files/schedule.md)
+- [Schedule](files/schedule.md)
 - [Reading list](files/reading-list.md)
 
 ## 1. Description
