@@ -19,6 +19,7 @@
 - [Causal Deep Learning](https://arxiv.org/abs/2303.02186)
 - [Learning Causal Attributions in Neural Networks: Beyond Direct Effects](https://arxiv.org/abs/2303.13850)
 - [Matching Learned Causal Effects of Neural Networks with Domain Priors](https://proceedings.mlr.press/v162/kancheti22a/kancheti22a.pdf)
+- [Controlling the False Discovery Rate via Knockoffs](https://arxiv.org/abs/1404.5609)
 
 ## Others
 
