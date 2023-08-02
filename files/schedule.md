@@ -9,4 +9,4 @@
 | 5 | July 5 | [Estimation of Causal Peer Influence Effects](https://proceedings.mlr.press/v28/toulis13.html) | [Slides](slides/causal-reading-group-23_week5.pdf) | [Recording](videos/week5_recording.mp4) |
 | 6 | July 19 | Causality in ML | - | [Recording](videos/week6_recording.mp4) |
 | 7 | July 26 | Causal Deep Learning | - | [Recording](https://drive.google.com/file/d/1czaLh6RADAvzrI_iFsJUiZrfXDHYt_9y/view?usp=sharing) |
-| 8 | August 2 | TBD | | |
+| 8 | August 2 | [Three Counterfactual Interpretations And Their Identification](https://ftp.cs.ucla.edu/pub/stat_ser/r260-reprint.pdf) and [categorizing spurious features in NLP](https://aclanthology.org/2022.emnlp-main.666/) | | |
